@@ -143,3 +143,6 @@
     text-align: center;
   }
 }
+
+.cookieSettingsBtn{background:none;border:none;color:inherit;font-size:inherit;cursor:pointer;text-decoration:underline;text-underline-offset:2px;padding:0;opacity:0.7;font-family:inherit;}
+.cookieSettingsBtn:hover{opacity:1;}
